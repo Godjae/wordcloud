@@ -1,0 +1,6 @@
+Binggrae.ttf
+env/
+.DS store
+# .gitignore에 파일이름치면 커밋할때 안올라감
+# pip freeze> requirrements.txt pip패키지 리스트 저장
+# pip install -r requirements.txt pip패키지 리스트 목록 나열
